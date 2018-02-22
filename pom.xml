@@ -9,4 +9,12 @@
     <version>1.0-SNAPSHOT</version>
 
 
+
+    <parent>
+        <groupId>com.fuyao</groupId>
+        <artifactId>shop_parent</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
+
 </project>
